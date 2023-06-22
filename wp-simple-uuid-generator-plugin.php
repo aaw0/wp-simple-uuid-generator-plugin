@@ -15,7 +15,7 @@ function uuid_generator_menu() {
     add_menu_page(
       'UUID Generator',
       'UUID Generator',
-      'manage_options',
+      'read',
       'uuid-generator',
       'uuid_generator_page',
       'dashicons-admin-generic',

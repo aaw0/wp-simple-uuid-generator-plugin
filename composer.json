@@ -1,0 +1,16 @@
+{
+    "name": "aaw0/wp-simple-uuid-generator-plugin",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/aaw0/wp-simple-uuid-generator-plugin",
+    "authors": [
+      {
+        "name": "Ali Awwad",
+        "homepage": "https://github.com/aaw0"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    }
+  }
